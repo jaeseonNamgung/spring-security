@@ -1,4 +1,4 @@
-package ssia.ch2.ex1;
+package com.security.practice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package ssia.ch2.ex1;
+package com.security.practice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
