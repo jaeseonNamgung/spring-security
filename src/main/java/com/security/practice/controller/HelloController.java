@@ -13,5 +13,4 @@ public class HelloController {
     public String hello(){
         return "Hello!";
     }
-    GrantedAuthority g2 = new SimpleGrantedAuthority("Read");
 }
